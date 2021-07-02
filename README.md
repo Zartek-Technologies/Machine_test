@@ -8,4 +8,4 @@ Users should be able to Drag and drop an item within the list order box. The App
 Submission Instructions :
 
 1. Push the codes to your github and share the link (Public)
-2. Host the sites in netlify(Free) and share the links
+2. Host the sites in Netlify(Free) and share the links
